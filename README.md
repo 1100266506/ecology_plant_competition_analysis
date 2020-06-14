@@ -28,7 +28,7 @@ To test for intra- and inter-specific competition, multiple experimental groups 
 Plots represent changes in plant biomass according to different plant densities. Box plots and their associated points were displayed to show multi-modal distributions and n-values.
 
 ### Statistical Analysis
-Statistical significance was determined using an ANOVA test and Tukey HSD test with a critical value of 0.05 in R Studio. Data was analyzed to determine which plant densities caused greater changes in plant biomass, and which plant species was more successful in out-competing the other under specific circumstances.
+Statistical significance was determined using an ANOVA test and Tukey HSD test with a critical value of 0.05 in the main R script. Data was analyzed to determine which plant densities caused greater changes in plant biomass, and which plant species was more successful in out-competing the other under specific circumstances.
 
 ### Credits
 @author Benjamin Ahn
