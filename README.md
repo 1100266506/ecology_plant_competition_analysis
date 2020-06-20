@@ -1,10 +1,10 @@
 # Ecology Plant Competition Analysis
-BIOL Ecology 2300 data and statistical analysis on plant competition. Plant biomass between two species were compared and analyzed to quantify inter-/intra-specific competition at varying plant densities.
+BIOL Ecology 2300 data and statistical analysis on plant competition. Plant biomass between two species were compared and analyzed to quantify inter-/intra-specific competition at varying plant densities.  
 
 @author Benjamin Ahn
 
 ### Technologies
-R Studio 3.4.4 with tidyverse
+R Studio 3.4.4 with tidyverse  
 Experimental tools and techniques related to plant-based experiments
 
 ### Launch
@@ -31,5 +31,5 @@ Plots represent changes in plant biomass according to different plant densities.
 Statistical significance was determined using an ANOVA test and Tukey HSD test with a critical value of 0.05 in the main R script. Data was analyzed to determine which plant densities caused greater changes in plant biomass, and which plant species was more successful in out-competing the other under specific circumstances.
 
 ### Credits
-@author Benjamin Ahn
-@version 1.0
+@author Benjamin Ahn  
+@version 1.0  
